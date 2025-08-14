@@ -10,6 +10,7 @@ This project implements a neural network model using PyTorch to predict customer
 
 ##  Directory Structure
 
+```bash
 customer-churn/
 ├── data/ # Sample data
 ├── churn/ # Data preprocessing and PyTorch model
@@ -19,6 +20,7 @@ customer-churn/
 ├── churn_model.pt # Trained PyTorch model checkpoint
 ├── config.py # Configuration settings (paths, hyperparameters)
 └── requirements.txt # Python dependencies
+```
 
 ---
 
